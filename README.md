@@ -1,4 +1,3 @@
 # forcatarefa
 rara
-rafa
 rafael
